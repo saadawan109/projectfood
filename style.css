@@ -1,0 +1,334 @@
+/* Navbar */
+
+.head {
+    background-image: url(carousel-1.jpg);
+    background-repeat: no-repeat;
+    background-position: top;
+}
+
+.nav {
+    color: #3CB815;
+    font-family: "Lora", serif;
+    font-weight: 700;
+}
+
+.nav-o {
+    color: #F65005
+}
+
+.icon {
+    height: 30px;
+    width: 30px;
+    align-items: center;
+    justify-content: center;
+}
+
+.menu {
+    margin-bottom: 26px;
+}
+
+.heading {
+    padding-top: 100px;
+    font-family: "Lora", serif;
+    font-weight: 700;
+    line-height: 1.2;
+    font-size: 80px;
+    margin-left: 3px;
+}
+
+.btnp {
+    background-color: #3CB815;
+    padding: 13px 45px;
+    border: 0;
+    border-radius: 30px;
+    color: white;
+}
+
+.btns {
+    background-color: #F65005;
+    padding: 13px 45px;
+    border: 0;
+    border-radius: 30px;
+    color: white;
+    margin-left: 10px;
+}
+
+.mbottom {
+    padding-bottom: 200px;
+}
+
+.nav-icon {
+    display: block;
+    height: 25px;
+    width: 25px;
+    border-radius: 50%;
+    background-color: white;
+    color: black;
+    margin: 5px;
+    padding-left: 5px;
+}
+
+
+/* 2nd Section */
+
+.main-section {
+    margin-top: 140px;
+}
+
+.img-farmer {
+    width: 100%;
+}
+
+.top {
+    padding-top: 80px;
+    font-family: "Lora", serif;
+    font-weight: 600;
+}
+
+.i-t {
+    display: flex;
+}
+
+/* Our Features */
+
+.g-line {
+
+    border-bottom: 2px solid;
+    width: 50px;
+    margin-top: 100px !important;
+    margin: auto;
+    border-color: #05f649;
+
+
+
+}
+
+.o-line {
+
+    border-bottom: 3px solid orangered;
+    width: 90px;
+    margin-top: 10px !important;
+    margin-bottom: 30px !important;
+    margin: auto;
+
+}
+
+.our-features {
+
+    font-family: "Lora", serif;
+    font-weight: bolder;
+    text-align: center;
+    
+}
+
+.para {
+    
+    text-align: center;
+    
+    margin-bottom: 40px;
+}
+
+.card3{
+    margin-bottom: 80px;
+}
+
+.card-img-top{
+    padding: 60px 130px;
+}
+
+.card-title{
+    width: 47%;
+    margin: auto;
+}
+
+.card-text{
+    width: 100%;
+    justify-content: center;
+    
+}
+
+.btn{
+    margin: auto;
+}
+
+.btn-div{
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+
+/* Our Products */
+
+.g2-line {
+
+    border-bottom: 2px solid;
+    width: 50px;
+    margin-top: 100px !important;
+    border-color: #05f649;
+
+
+
+}
+
+.o2-line {
+
+    border-bottom: 3px solid orangered;
+    width: 90px;
+    margin-top: 10px !important;
+    margin-bottom: 30px !important;
+
+}
+
+.our-products {
+
+    font-family: "Lora", serif;
+    font-weight: bolder;
+    
+}
+
+.title{
+    text-align: center;
+    width: 60% !important ;
+    font-family: "Lora", serif;
+    font-weight: bolder;
+}
+
+.new{
+    background-color: #F65005;
+    color: white;
+    border: 0;
+    width: 20%;
+    position: absolute;
+    margin-top: 28px;
+    margin-left: 28px;
+    padding: 2px 5px;
+    font-size: small;
+}
+
+.card-text{
+    width: auto !important;
+}
+
+.price{
+    justify-content: center;
+    
+}
+
+.div-browse{
+    text-align: center;
+}
+
+.btn-browse{ 
+    
+    background-color: #3CB815;
+    padding: 13px 40px;
+    border: 0;
+    border-radius: 30px;
+    color: white;
+}
+
+
+
+/* Visit Our Firm */
+
+
+.visit-our-firm{
+    background-color: #3CB815;
+}
+
+.visit-heading{
+    padding-top: 50px;
+    font-family: "Lora", serif;
+    color: white;
+    font-weight: bolder;
+}
+.text-white{
+    padding-bottom: 30px;
+}
+
+.div-visit{
+    text-align:end;
+    padding-top: 100px;
+}
+
+.btn-visit-now{
+    background-color:#F65005;
+    padding: 13px 40px;
+    border: 0;
+    border-radius: 30px;
+    color: white;
+}
+
+
+.bg1{
+    background-color: white;
+    padding: 30px 40px;
+}
+
+.bg2{
+    background-color:#3CB815;
+    padding: 30px 40px;
+}
+
+.img-circle{
+    width: 50px;
+    height: 50px;
+    
+}
+
+.name{
+    font-family: "Lora", serif;
+    font-weight: bold;
+}
+
+.arrows{
+    display: flex;
+    justify-content: center;
+    padding-top: 25px;
+}
+
+.i1{
+    font-size:250%;
+    color: #3CB815;
+}
+
+/* Latest Blog */
+
+.blog-text{
+    font-family: "Lora", serif;
+    font-size: large;
+    font-weight: bold;
+}
+
+.blog-footer{
+    display: flex;
+}
+
+.icon-footer{
+    font-size: x-large;
+    margin-right: 10px;
+    padding-top: 10px;
+}
+
+.address-footer{
+    font-size: x-large;
+    font-family: "Lora", serif;
+}
+
+.div-address{
+    display: flex;
+}
+
+.email-footer{
+    display: flex;
+    border: white 1px solid;
+}
+
+.email-button{
+    background-color: #3CB815;
+    border: 0cap;
+    margin: 5px 5px 5px 0px;
+    margin-left: -28px;
+    color: white;
+    padding: 5px 12px;
+}
